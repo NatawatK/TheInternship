@@ -1,8 +1,8 @@
 # Weather (XML to JSON)
-ชื่อ:นายณฐวรรธก์ ขวัญภูมิ
-Name : Natawat Kwanpoom
-Email : natawat.nueng@gmail.com
-Tsel : 061 959 9939
+- ชื่อ:นายณฐวรรธก์ ขวัญภูมิ
+- Name : Natawat Kwanpoom
+- Email : natawat.nueng@gmail.com
+- Tel : 061 959 9939
 
 
 ### Installation
